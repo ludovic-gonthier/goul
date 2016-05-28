@@ -1,0 +1,7 @@
+# VENDORS
+vendor/
+
+# DOCKER generated files
+supervisord.log
+supervisord.pid
+www.pid
