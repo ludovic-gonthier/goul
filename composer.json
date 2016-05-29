@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Goul\\": "src/Goul"
+        }
+    },
+    "require": {
+        "facebook/xhp-lib": "~2.3",
+        "hack-psr/psr7-http-message-hhi": "~0.2"
+    }
+}
